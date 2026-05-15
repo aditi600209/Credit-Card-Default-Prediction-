@@ -1,2 +1,2 @@
 # Credit-Card-Default-Prediction-
-My project
+I am learning ML and GenAi
